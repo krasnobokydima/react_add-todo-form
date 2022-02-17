@@ -1,0 +1,2 @@
+.App{text-align:center;width:600px;margin:0 auto}.todo__item{display:flex;justify-content:space-between;align-items:center;border:none;border-bottom:1px solid green;box-sizing:border-box}.todo__title{text-align:left}.done{background-color:rgba(127,255,212,.3)}.user__info{grid-gap:30px;gap:30px}.form,.user__info{display:flex;align-items:center}.form{flex-direction:column}.selected{height:100px;width:100px}
+/*# sourceMappingURL=main.f0b0165b.chunk.css.map */
